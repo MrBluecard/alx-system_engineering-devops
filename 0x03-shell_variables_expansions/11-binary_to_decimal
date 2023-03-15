@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((base_u_convert_from#$variable))
+echo $((2#$BINARY))
